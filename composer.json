@@ -1,0 +1,11 @@
+{
+    "name": "panag/fatfree",
+    "authors": [
+        {
+            "name": "Juvi Panaguiton"
+        }
+    ],
+    "require": {
+        "bcosca/fatfree": "3.8.2"
+    }
+}
